@@ -1,4 +1,5 @@
 ## ARCHIVE 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFD966,E6F5A9,BFEFFF&height=10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiv2)](https://github.com/archiv2/github-readme-stats)
    
