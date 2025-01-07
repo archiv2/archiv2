@@ -4,7 +4,20 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiv2)](https://github.com/archiv2/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/archiv2/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiv2" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/archiv2/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=archiv2" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
    
 ### Studying
 
