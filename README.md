@@ -2,8 +2,7 @@
    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=83a7a3&height=300&ion=header&text=ARCHIVE&fontSize=90&fontColor=ffffff&fontAlignY=40)
 
-</div>
-<div align="center">
+
 <table>
   <tr>
     <td>
@@ -18,7 +17,7 @@
     </td>
   </tr>
 </table>
-</div>
+
    
 ### Studying
 
@@ -48,3 +47,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+</div>
