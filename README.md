@@ -1,4 +1,6 @@
 ## ARCHIVE 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiv2)](https://github.com/archiv2/github-readme-stats)
    
 ### Studying
 
