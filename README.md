@@ -1,5 +1,6 @@
-## ARCHIVE 
-<div style="width:100%; height:10px; background: linear-gradient(to right, #FFD966, #E6F5A9, #BFEFFF);"></div>
+## ARCHIVE
+![header](https://capsule-render.vercel.app/api?type=rect&color=0f0c29,302b63,24243e&height=10)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiv2)](https://github.com/archiv2/github-readme-stats)
    
