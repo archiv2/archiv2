@@ -2,7 +2,6 @@
    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=83a7a3&height=250&section=header&text=ARCHIVE%20%3C3&fontSize=90&fontColor=ffffff&fontAlignY=40)
 
-
 <table>
   <tr>
     <td>
