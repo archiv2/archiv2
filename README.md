@@ -1,5 +1,5 @@
 ## ARCHIVE 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFD966,E6F5A9,BFEFFF&height=10)
+<div style="width:100%; height:10px; background: linear-gradient(to right, #FFD966, #E6F5A9, #BFEFFF);"></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archiv2)](https://github.com/archiv2/github-readme-stats)
    
